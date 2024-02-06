@@ -1,0 +1,6 @@
+cow
+dog
+milk
+cat
+goat
+mammal
